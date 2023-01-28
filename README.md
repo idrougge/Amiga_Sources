@@ -124,6 +124,7 @@ Everything that has to do with developing for Amiga.
 [Scorpion](https://github.com/earok/scorpion-editor-demos) | Game engine | earok |
 [Tornado](https://github.com/flynn-nrg/tornado-amiga) | Crossdev framework for demos | Capsule |
 [xdms](https://gitlab.com/heikkiorsila/xdms) | Portable DMS parser library | Heikki Orsila |
+[AmigaQtoolkit](https://github.com/boemann/AmigaQtoolkit) | C++ toolkit for 3.1 inspired by Qt | Camilla Boemann |
 
 ## Low-level programming
 
